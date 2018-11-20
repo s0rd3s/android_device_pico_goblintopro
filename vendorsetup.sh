@@ -1,2 +1,2 @@
-add_lunch_combo omni_sagit-eng
-add_lunch_combo omni_sagit-userdebug
+add_lunch_combo omni_goblintopro-eng
+add_lunch_combo omni_goblintopro-userdebug

@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := sagit
+PRODUCT_RELEASE_NAME := goblintopro
 
 $(call inherit-product, build/target/product/embedded.mk)
 
@@ -23,8 +23,8 @@ $(call inherit-product, build/target/product/embedded.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := sagit
-PRODUCT_NAME := omni_sagit
-PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := MI 6
-PRODUCT_MANUFACTURER := Xiaomi
+PRODUCT_DEVICE := goblintopro
+PRODUCT_NAME := omni_goblintopro
+PRODUCT_BRAND := Pico
+PRODUCT_MODEL := G2PRO
+PRODUCT_MANUFACTURER := Pico
